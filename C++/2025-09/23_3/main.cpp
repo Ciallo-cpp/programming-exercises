@@ -14,7 +14,7 @@ int main(){
 
     double oil = 0;
     print("输入油耗:");
-    cin >> oil = 0;
+    cin >> oil;
 
    if (select == 1)
    {
